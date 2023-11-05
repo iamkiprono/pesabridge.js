@@ -1,5 +1,9 @@
 {
   "name": "pesabridge",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iamkiprono/pesabridge.js.git"
+  },
   "version": "1.0.0",
   "description": "This is a React Library to integrate MPESA payments using Safaricom's Daraja API",
   "main": "dist/cjs/index.js",
