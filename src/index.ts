@@ -1,5 +1,4 @@
+import useLipaNaMpesa from "./hooks/useLipaNaMpesa";
 import { queryTransaction } from "./tools/queryTransaction";
-import { lipaNaMpesa } from "./tools/lipaNaMpesa";
 
-export { queryTransaction, lipaNaMpesa };
- 
+export { queryTransaction, useLipaNaMpesa };
